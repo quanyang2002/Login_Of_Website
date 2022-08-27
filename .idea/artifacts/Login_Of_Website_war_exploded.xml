@@ -15,8 +15,9 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: junit:junit:4.12" />
-          <element id="library" level="project" name="Maven: org.jetbrains:annotations:RELEASE" />
           <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Maven: org.jetbrains:annotations:23.0.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.28" />
         </element>
       </element>
       <element id="directory" name="META-INF">
